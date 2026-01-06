@@ -8,7 +8,7 @@
 - Use the Flask Shell with Flask-SQLAlchemy to create, read, update and delete
   records in a SQL database.
 
----
+---------
 
 ## Key Vocab
 
